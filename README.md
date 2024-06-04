@@ -14,6 +14,6 @@ Dataset: https://www.kaggle.com/datasets/eward96/skincare-products-and-their-ing
 ## Modelling: 
 
 ## Interpretation and Validation: 
-Validation: 
 Website Vergleich: https://skinsort.com/dupes
+
 Projekt: 
