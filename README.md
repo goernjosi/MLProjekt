@@ -1,13 +1,19 @@
 # ML II Abschlussprojekt 
 
-## Ziel: 
+## Goal / Motivation: 
 
+Goal: 
 
 Movitvation: 
 
 
-Datensatz: https://www.kaggle.com/datasets/eward96/skincare-products-and-their-ingredients
+## Data Collection: 
+Dataset: https://www.kaggle.com/datasets/eward96/skincare-products-and-their-ingredients
 
+
+## Modelling: 
+
+## Interpretation and Validation: 
 Validation: 
 Website Vergleich: https://skinsort.com/dupes
 Projekt: 
